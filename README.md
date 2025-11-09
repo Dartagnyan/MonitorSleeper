@@ -1,9 +1,5 @@
 # MonitorSleeper
-A Windows PowerShell script that repeatedly sleeps (Standby Power) your monitors every 10seconds.
-
-Some monitors have issues with DisplayPort Deep Sleep. (My Asus XG27AQM specifically being unable to turn this off via any menu).
-
-If your monitor has the issue where Deep Sleep causes your DP link to restablish and force a handshake which wakes it you can use this tool.
+A Windows PowerShell script that repeatedly sleeps (Standby Power) your monitors every 10 seconds.
 
 How to use?
 
